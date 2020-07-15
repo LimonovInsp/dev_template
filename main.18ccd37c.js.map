@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["sum","a","b","console","log"],"mappings":";AAAA,IAAMA,EAAM,SAACC,EAAGC,GAAMD,OAAAA,EAAIC,GAG1BC,QAAQC,IAAIJ,EAAI,EAAG","file":"main.18ccd37c.js","sourceRoot":"..\\src","sourcesContent":["const sum = (a, b) => a + b;\r\n\r\n// eslint-disable-next-line no-console\r\nconsole.log(sum(1, 2));\r\n"]}
